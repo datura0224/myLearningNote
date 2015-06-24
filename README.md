@@ -1,0 +1,2 @@
+# myLearningNote
+something I got
